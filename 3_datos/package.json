@@ -1,0 +1,14 @@
+{
+  "name": "3_datos",
+  "version": "1.0.0",
+  "description": "Tipos de datos en npm ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhon Fabio Cardona Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
