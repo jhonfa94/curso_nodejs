@@ -25,5 +25,13 @@
 
 
 
+    # RUTAS 
+    Para hacer debug a nuestra app, y luego inicie lo hacemos con el siguiente comando
+    SET DEBUG=expressbase:* & npm start
+    SET DEBUG => es la sintaxis para hacer debug a nuestro proyecto 
+    =expressbase:* => nombre del proyeto al cual se le va hacer el debug y se le indica con el * que acople todo el proyecto 
+    & npm start => para que luego inice el proyecto en consola
+
+    
 
 */
