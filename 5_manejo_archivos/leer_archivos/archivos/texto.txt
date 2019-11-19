@@ -1,0 +1,1 @@
+Este es un texto dentro de un archivo, con la configuración por defecto
