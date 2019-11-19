@@ -8,6 +8,7 @@
     Nos ubicamos dentro de nuestra ruta del sistema donde se va a realizar el siguiente comando 
 
     express --view=pug expressbase
+    
     express => llamamos el comando 
     --view=pug => el sistema de plantillas de pug
     expressbase => nombre de la plantilla
